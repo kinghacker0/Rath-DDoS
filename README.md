@@ -1,5 +1,7 @@
 # Rath-DDoS
 
+![image](https://github.com/kinghacker0/Rath-DDoS/blob/master/Rath.jpg)
+
 It is a python2 based script which helps you to send unlimited packets to a perticular ip address or domaim.
 
 Installation:-
